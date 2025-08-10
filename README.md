@@ -25,3 +25,8 @@ ATM-Interface
 ├── ATMInterface.java # Main program (includes ATM and BankAccount classes)
 
 ├── README.md # Project documentation
+# Example output
+<img width="345" height="605" alt="Screenshot 2025-08-10 143844" src="https://github.com/user-attachments/assets/fc5f41d8-e193-4e55-8366-a6b057d632c8" />
+<img width="379" height="171" alt="Screenshot 2025-08-10 143909" src="https://github.com/user-attachments/assets/83a94c2c-7028-4bc9-aaaf-6e389bb7d179" />
+
+
